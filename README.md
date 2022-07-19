@@ -1,0 +1,5 @@
+# physarum
+
+```
+cargo run --release
+```
