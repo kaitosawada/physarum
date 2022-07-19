@@ -1,0 +1,9 @@
+[package]
+name = "physarum"
+version = "0.1.0"
+authors = ["teineiLIFE <mitosawada@gmail.com>"]
+edition = "2021"
+
+[dependencies]
+nannou = "0.18.1"
+ndarray = "0.15.4"
